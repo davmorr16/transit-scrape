@@ -1,0 +1,54 @@
+# Core scientific packages
+numpy  # Base array operations
+pandas  # Data manipulation
+geopandas
+geojson
+scipy  # Scientific computing tools
+h3
+
+# Geospatial packages
+rasterio  # Raster I/O
+gdal  # Geospatial Data Abstraction Library
+shapely  # Geometric operations
+geopandas  # Spatial data operations
+pyproj  # Cartographic projections
+fiona  # Vector I/O
+
+# Raster-specific
+rasterstats  # Raster-vector operations
+scikit-image  # Image processing
+affine  # Geospatial transforms
+numba  # Speed up numerical operations
+
+# Visualization
+folium  # Interactive maps
+plotly  # Interactive plots
+matplotlib  # Static plots
+contextily  # Basemaps
+
+# Optional but useful
+dask  # Parallel computing
+zarr  # Array storage format
+python-dotenv  # Environment management
+click  # Command line interfaces
+tqdm  # Progress bars
+
+# Development tools
+black  # Code formatting
+flake8  # Linting
+pytest  # Testing
+jupyter  # Notebooks
+
+boto3
+botocore
+tqdm
+psycopg2
+psycopg2-binary
+sqlalchemy
+geoalchemy2
+sqlalchemy_utils
+
+# For App
+streamlit_folium
+streamlit
+folium
